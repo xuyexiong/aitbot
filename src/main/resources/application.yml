@@ -1,0 +1,10 @@
+server:
+  port: 80
+
+#数据源配置
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://34.84.237.25:3306/ait_bot?
+    username: root
+    password: 123456
